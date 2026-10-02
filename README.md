@@ -1,0 +1,2 @@
+# Interactive-Learning-Knowledge-Atlas-Gimkit-EdTech-Game-Based-Learning-Digital-Research
+An independent, curated knowledge repository connecting Gimkit guides, classroom workflows, game-based learning research, educational technology comparisons, troubleshooting resources, learning-science concepts, and selected digital research references for teachers, students, researchers, and EdTech builders.
